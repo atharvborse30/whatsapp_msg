@@ -1,0 +1,15 @@
+Date: 26/5/2023
+Time: 21:44
+Phone Number: +918408923077
+Message: Hello from Python! This is a test message.
+--------------------
+Date: 26/5/2023
+Time: 21:53
+Phone Number: +918408923077
+Message: lavdya
+--------------------
+Date: 26/5/2023
+Time: 21:56
+Phone Number: +918408923077
+Message: Hello this message is delievered using python to the whatsapp
+--------------------
